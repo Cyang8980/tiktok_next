@@ -17,7 +17,8 @@
     "next": "15.1.5",
     "next-video": "^2.0.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "tiktok_next": "file:"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
